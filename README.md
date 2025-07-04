@@ -254,7 +254,4 @@ This project is created for the Fawry Quantum Internship Challenge and is availa
 ---
 
 **Developed for Fawry Quantum Internship Challenge** 🚀
-
-**Author**: Yousef Hussien Awad 
-**Date**: July 2025  
-**Version**: 1.0.0
+Author: Yousef Hussien Awad | Date: July 2025 | Version: 1.0.0
